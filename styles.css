@@ -459,7 +459,7 @@ nav {
 
 .footer__container {
   display: grid;
-  gap: 4rem 2rem;
+  gap: 5rem 2rem;
 }
 
 .footer__logo img {
@@ -665,7 +665,7 @@ nav {
   }
 
   .footer__container {
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(4, 1fr);
   }
 }
 
